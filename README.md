@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hey, I'm Sergei 👋
 
-<!--
-**serejke/serejke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Currently**, independent Ethereum/Solana/MEV researcher and consultant, ping me on [LinkedIn](https://www.linkedin.com/in/sergey-patrikeev/)
+- **Previously Protocol Architect** at [Khalani](https://twitter.com/khalani_network) — a general-purpose intent-centric solvers network
+- **Researched** on MEV and intent-related topics: [UniswapX](https://blog.uniswap.org/uniswapx-protocol), [Anoma](https://anoma.net/), [CowSwap](https://swap.cow.fi/#/1/swap/WETH), [SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave/), [Essential](https://essential.builders/), [ERC-4337](https://www.erc4337.io/)
+- **Implemented** [General Message Passing for UTXO](https://gist.github.com/serejke/20b8a3494301577f87840f42c67dac2c) on Cardano with EVM on top of [Hyperlane](https://hyperlane.xyz/)
+- **Led Blockchain Engineering** at [Baxus.co](https://baxus.co/) — Solana-based marketplace of RWA
+- **Developed** the first multi-chain NFT indexer for [Solana](https://github.com/rarible/solana-indexer-public) and [Ethereum](https://github.com/rarible/ethereum-indexer-public) in 2021 at [Rarible.com](https://rarible.com/)
+- **Backend Developer**: Kotlin/Java 6 years at [JetBrains.com](https://jetbrains.com)
+- **Static Analysis of JVM Bytecode**: [IntelliJ Bytecode Verifier](https://github.com/JetBrains/intellij-plugin-verifier) (Author, > 100 ⭐)
+- **Implemented** an [Indexer](https://github.com/rarible/ethereum-indexer-public/tree/971584178b8ddf1cf8cebd69e8714f3cfaa5af39/nft/listener/src/main/kotlin/com/rarible/protocol/nft/listener/service/descriptors/crypto/punks) for Crypto Punks (non ERC-721)
