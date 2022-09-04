@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergei 👋
 
-I've worked as a Senior Kotlin/Java developer for 6 years in JetBrains building IntelliJ IDEA, then switched over to NFT marketplace [Rarible.com](https://rarible.com) for a year. Currently, I'm self-studying and researching blockchain projects and willing to contribute to the ecosystem (Solana / NEAR).
+I've worked as a Senior Kotlin/Java developer for 6 years in JetBrains building IntelliJ IDEA, then switched over to NFT marketplace [Rarible.com](https://rarible.com) for a year. Currently, I'm self-studying full-stack developement (TypeScript/React/Node.js) and Web3 SDKs and willing to contribute to the ecosystem (Solana / NEAR).
 
 - 🔭 I’m currently working on [solana-place.com](http://solana-place.com/)
 - 🌱 I’m currently learning Solana SDK, Anchor, React and Typescript
