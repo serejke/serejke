@@ -1,5 +1,5 @@
-### Hi there, I'm Sergei 👋
+### Hi, I'm Sergei 👋
 
-I'm a full-stack Web3 developer (TypeScript/React/Node.js) with a focus on Solana (Anchor / Metaplex / SPL). I've worked at [Rarible.com](https://rarible.com) and built an NFT indexer for Solana. Long ago, I built IntelliJ IDEA at JetBrains being a Kotlin/Java fan.
+Full Stack Engineer focusing on DApp development for Solana Blockchain using Metaplex, Anchor, Rust Programs, Solana Web3, RemixJS and Nest.js. Previously had 6 years of Kotlin/Java backend engineering. Built indexer for Solana and Ethereum blockchains and a distributed metadata loading system at the NFT marketplace [Rarible.com](https://rarible.com). Built open-source static analysis tools for JVM languages at JetBrains and improved the file system indexing in IntelliJ IDEA.
 
 - 📫 How to reach me: telegram @serejke, linkedin: [sergey-patrikeev](https://www.linkedin.com/in/sergey-patrikeev/)
