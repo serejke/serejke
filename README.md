@@ -1,5 +1,7 @@
-### Hi, I'm Sergei 👋
+### Hey 👋
 
-Full Stack Engineer focusing on DApp development for Solana Blockchain using Metaplex, Anchor, Rust Programs, Solana Web3, RemixJS and Nest.js. Previously had 6 years of Kotlin/Java backend engineering. Built indexer for Solana and Ethereum blockchains and a distributed metadata loading system at the NFT marketplace [Rarible.com](https://rarible.com). Built open-source static analysis tools for JVM languages at [JetBrains.com](https://jetbrains.com) and improved the file system indexing in IntelliJ IDEA.
+I'm Sergei, a Full Stack Blockchain Engineer experienced with Solana (Metaplex, Anchor, SPL) and Ethereum (Solidity, JSON RPCs, Web3.js). Expert in backend engineering (Node.js / Nest.js), Typescript, Kafka, Kubernetes. Expert in React, RemixJS, Node.js, styled-components, TailwindCSS. Fluent with Rust and Solidity. Previously had 6 years of top level Kotlin/Java development at [JetBrains.com](https://jetbrains.com). Built an indexer for [Solana](https://github.com/rarible/solana-indexer) and [Ethereum](https://github.com/rarible/ethereum-indexer) blockchains, and a distributed metadata [loading infrastructure](https://github.com/rarible/service-core/blob/master/loader/src/main/java/com/rarible/core/loader/LoadService.kt) at the [Rarible.com](https://rarible.com) NFT marketplace. 
 
-- 📫 How to reach me: telegram @serejke, linkedin: [sergey-patrikeev](https://www.linkedin.com/in/sergey-patrikeev/)
+Latest projects:
+- Simple Ethereum blockchain [explorer](https://github.com/serejke/explorer)
+- On-chain pixel board [solana-place.com/](https://www.solana-place.com/) - Solana DApp [pet project](https://github.com/serejke/solana-place)
