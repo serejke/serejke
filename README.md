@@ -1,8 +1,6 @@
 ### Hey, I'm Sergei 👋
 
-Full Stack Blockchain Engineer experienced in Solana ([Metaplex](https://www.metaplex.com/), [Anchor](https://www.anchor-lang.com/), [SPL](https://spl.solana.com/)) and Ethereum (Solidity, RPCs, Ether.js, Web3.js). Expert in backend engineering with Koltin, Node.js (Express, Nest.js), Typescript, React (RemixJS, Next.js), styled-components, TailwindCSS. Fluent with Rust and Solidity. Previously had 6 years of top level Kotlin/Java development at [JetBrains.com](https://jetbrains.com). Built an indexer for [Solana](https://github.com/rarible/solana-indexer) and [Ethereum](https://github.com/rarible/ethereum-indexer) blockchains, and a distributed metadata loading infrastructure at the [Rarible.com](https://rarible.com) NFT marketplace. 
-
-I stay in Lisbon 🇵🇹, jog twice a week 🏃, play frisbee 🥏 and volleyball 🏐, watch movies 🎥 and can order [Pastel de Nata](https://en.wikipedia.org/wiki/Pastel_de_nata) in Portuguese!
+Full Stack Blockchain Engineer experienced in Solana ([Metaplex](https://www.metaplex.com/), [Anchor](https://www.anchor-lang.com/), [SPL](https://spl.solana.com/)) and Ethereum (Solidity, RPCs, Ether.js, Web3.js). Expert in backend engineering with Koltin, Node.js (Express, Nest.js), Typescript, React (RemixJS, Next.js), styled-components, TailwindCSS. Fluent with Rust and Solidity. Previously had 6 years of top level Kotlin/Java development at [JetBrains.com](https://jetbrains.com). Built an indexer for [Solana](https://github.com/rarible/solana-indexer) and [Ethereum](https://github.com/rarible/ethereum-indexer) blockchains, and a distributed metadata loading infrastructure at the [Rarible.com](https://rarible.com) NFT marketplace.
 
 ### Interests
 Rust, Ethereum L2 (Arbitrum, Optimism), NEAR, Move (Aptos) are my primary interests at the moment.
