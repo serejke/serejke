@@ -1,7 +1,7 @@
 ### Hey, I'm Sergei 👋
 Universal Blockchain Engineer 🤖
 
-Building [Khalani](https://docs.khalani.network/) permissionless liquidity protocol for account-based (all EVM compatible chains) and UTXO based blockchains (Cardano, Nervos).
+Building [Khalani](https://docs.khalani.network/) permissionless liquidity protocol for all account-based and UTXO based blockchains.
 
 - [Hyperlane](https://hyperlane.xyz/) contributor
 - EVM: Solidity, Foundry, Tenderly, Ethers / Web3.js, MetaMask & WalletConnect, Balancer V2, Safe Wallet
