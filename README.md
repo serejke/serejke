@@ -3,7 +3,8 @@ Universal Blockchain Engineer 🤖
 
 Building [Khalani](https://khalani.network/) — general purpose, intent-centric cross chain liquidity protocol.
 
-- Built UTXO General Message Passing on top of [Hyperlane](https://hyperlane.xyz/)
+- Researching on [UniswapX](https://blog.uniswap.org/uniswapx-protocol) and [V4](https://blog.uniswap.org/uniswap-v4), [Anoma](https://anoma.net/), [CowSwap](https://swap.cow.fi/#/1/swap/WETH), [SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave/).
+- Built General Message Passing for UTXO blockchain Cardano with EVM on top of [Hyperlane](https://hyperlane.xyz/)
 - EVM: Solidity, Foundry, Tenderly, Ethers / Web3.js, MetaMask & WalletConnect, Balancer V2, Safe Wallet, Subgraphs
 - Solana: Anchor, Metaplex, SPL, Solana Pay
 - Full-stack development: TypeScript, React (Next.js / RemixJS), styled-components, TailwindCSS
