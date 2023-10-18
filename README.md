@@ -1,7 +1,7 @@
 ### Hey, I'm Sergei 👋
 Universal Blockchain Engineer 🤖
 
-Building [Khalani](https://docs.khalani.network/) intent-centric cross-chain liquidity protocol.
+Building [Khalani](https://khalani.network/) intent-centric cross-chain liquidity protocol.
 
 - Built UTXO General Message Passing on top of [Hyperlane](https://hyperlane.xyz/)
 - EVM: Solidity, Foundry, Tenderly, Ethers / Web3.js, MetaMask & WalletConnect, Balancer V2, Safe Wallet, Subgraphs
