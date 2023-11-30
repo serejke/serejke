@@ -17,7 +17,8 @@ Cross-chain interoperability solutions (Hyperlane, IBC, Axelar, LayerZero) and D
 
 ### 👨‍💻 Projects
 - [Khalani Protocol](https://app.staging.khalani.network/)
-- [Baxus.co](https://baxus.co/) Solana NFT Marketplace
+- [Khalani Faucet](https://faucet.khalani.network/)
+- [Baxus.co](https://baxus.co/) Solana NFT Marketplace of Real-World Assets
 - [Rarible.com](https://rarible.com/): [Solana](https://github.com/rarible/solana-indexer), [Ethereum](https://github.com/rarible/ethereum-indexer) NFT indexers
 - Pet: Ethereum blockchain [explorer](https://github.com/serejke/explorer)
 - Pet: Solana on-chain [pixel board](https://github.com/serejke/solana-place)
