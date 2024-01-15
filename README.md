@@ -15,7 +15,7 @@ Previosuly worked at [Khalani](https://khalani.network/) — general purpose, in
 Cross-chain interoperability solutions (Hyperlane, IBC, Axelar, LayerZero) and DeFI protocols (UniswapX).
 
 ### 👨‍💻 Projects
-- [Khalani Protocol](https://app.staging.khalani.network/)
+- [Khalani Protocol](https://twitter.com/khalani_network)
 - [Khalani Faucet](https://faucet.khalani.network/)
 - [IntelliJ Bytecode Verifier](https://github.com/JetBrains/intellij-plugin-verifier) (author, > 100 ⭐)
 - [Baxus.co](https://baxus.co/) Solana NFT Marketplace of Real-World Assets
