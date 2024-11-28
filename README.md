@@ -3,7 +3,7 @@
 - **Currently**, architecting and developing a closed-source Solana High Frequency Trading (HFT) infrastructure, ping me on [LinkedIn](https://www.linkedin.com/in/sergey-patrikeev/) for Solana expertise
 - **Previously Protocol Architect** at [Khalani](https://twitter.com/khalani_network) — a general-purpose intent-centric solvers network
 - **Researched** on MEV and intent-related topics: [UniswapX](https://blog.uniswap.org/uniswapx-protocol), [Anoma](https://anoma.net/), [CowSwap](https://swap.cow.fi/#/1/swap/WETH), [SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave/), [Essential](https://essential.builders/), [ERC-4337](https://www.erc4337.io/)
-- **Implemented** [General Message Passing for UTXO](https://gist.github.com/serejke/20b8a3494301577f87840f42c67dac2c) on Cardano with EVM on top of [Hyperlane](https://hyperlane.xyz/)
+- **Implemented** [General Message Passing](https://gist.github.com/serejke/20b8a3494301577f87840f42c67dac2c) between Cardano and EVM on top of [Hyperlane](https://github.com/tvl-labs/hyperlane-cardano)
 - **Led Blockchain Engineering** at [Baxus.co](https://baxus.co/) — Solana-based marketplace of RWA
 - **Developed** the first multi-chain NFT indexer for [Solana](https://github.com/rarible/solana-indexer-public) and [Ethereum](https://github.com/rarible/ethereum-indexer-public) in 2021 at [Rarible.com](https://rarible.com/)
 - **Backend Developer**: Kotlin/Java 6 years at [JetBrains.com](https://jetbrains.com)
